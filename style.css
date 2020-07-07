@@ -1,0 +1,85 @@
+.container{
+    margin-bottom: 80px;
+}
+
+.carousel-item{
+    padding: 20px 30px;
+}
+
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #111111 0%, #3d3c3c 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.slider{
+    position: relative;
+}
+
+.bg-img{
+    position:absolute;
+    left: 0;
+    top: 370px;
+    width: 100px;
+    height: 100px;
+}
+.positioning{
+    margin-bottom: 50px;
+}
+
+.alignment{
+    text-align: center;
+}
+.orange-color{
+    color: orange;
+}
+
+.card-deck .card {
+	border: none ;
+	box-shadow: 5px 5px 10px rgb(201, 197, 197);
+	border-radius: 10px;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 40px;
+    height: 10px;
+    text-indent: 0;
+    cursor: pointer;
+    border: none;
+    border-radius: 45%;
+    background-color: #000000; 
+}
+.carousel-indicators .active {
+    width: 40px;
+    height: 10px;
+    background-color: #fff131;
+}
+
+hr{
+    background-color:  #f78316;
+    padding: 3px;
+    width: 70px;
+    border-radius: 10px;
+
+}
+.sizing{
+    margin-bottom: 30px;
+}
+
+.perfume-shoe{
+    box-shadow: 10px 10px 40px rgb(221, 225, 243);
+    border-radius: 10px 5px 20px 5px;
+    padding: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#bag{
+    box-shadow: 10px 10px 40px rgb(221, 225, 243);
+    padding: 50px;
+    border-radius: 5px 10px 5px 20px;
+    
+}
